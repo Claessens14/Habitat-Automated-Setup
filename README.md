@@ -28,4 +28,5 @@ Turn the script into an executable
   ./setup.sh
   ```
 ### Notes
+ - The conda env name has `v#` in the name because I like to number my environments because I find I often corrupt them. 
  - ChatGPT helped with creating some of the bash commands and comments. 
