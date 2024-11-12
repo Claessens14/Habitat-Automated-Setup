@@ -29,4 +29,5 @@ Turn the script into an executable
   ```
 ### Notes
  - The conda env name has `v#` in the name because I like to number my environments because I find I often corrupt them. 
- - ChatGPT helped with creating some of the bash commands and comments. 
+ - ChatGPT helped with creating some of the bash commands and comments.
+ - Useful to note: [Habitat Config keys](https://github.com/facebookresearch/habitat-lab/blob/stable/habitat-lab/habitat/config/CONFIG_KEYS.md)
