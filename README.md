@@ -6,8 +6,8 @@ A simple script to automate the setup process of Habitat AI
  - [Habitat-Sim Stable Release](https://github.com/facebookresearch/habitat-sim/releases/tag/stable)
  - [Habitat Dataset: HM3D (Full)](https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md#habitat-matterport-3d-research-dataset-hm3d)
 
-### Do Not Support
- - All the [Dataset Option](https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md)
+### Does Not Support
+ - All the [Dataset Options](https://github.com/facebookresearch/habitat-sim/blob/main/DATASETS.md)
  - [Episode Datasets](https://github.com/facebookresearch/habitat-lab/blob/main/DATASETS.md)
  - `--CUDA` param
 
