@@ -31,3 +31,9 @@ Turn the script into an executable
  - The conda env name has `v#` in the name because I like to number my environments because I find I often corrupt them. 
  - ChatGPT helped with creating some of the bash commands and comments.
  - Useful to note: [Habitat Config keys](https://github.com/facebookresearch/habitat-lab/blob/stable/habitat-lab/habitat/config/CONFIG_KEYS.md) and [Config Information](https://github.com/facebookresearch/habitat-lab/blob/stable/habitat-lab/habitat/config/README.md)
+
+### Useful Links
+ - [SLURM Integration](python -u -m habitat_baselines.run --config-name=config.yaml  \
+hydra/launcher=submitit_slurm --multirun)
+ - [CPP API Docs](https://aihabitat.org/docs/habitat-sim/cpp.html)
+ - [Examples: Habitat Gym, incorporating baselines, visualization](https://github.com/facebookresearch/habitat-lab/tree/stable/examples/tutorials/notebooks)
